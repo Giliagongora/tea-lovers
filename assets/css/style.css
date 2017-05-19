@@ -128,3 +128,8 @@ footer {
 	padding: 20px 30px;
 	color: white;
 }
+#name,#mail,#direccion {
+	color: #0a4a00 ;
+	border-radius: 111px;
+	width: 30%;
+}
